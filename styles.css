@@ -1,0 +1,88 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #e6f2ff;
+    color: #003366;
+  }
+  
+  /* Encabezado con imagen cuadrada y nombre estilizado */
+  .encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #004080;
+    padding: 2.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    flex-wrap: wrap;
+  }
+  
+  /* Imagen cuadrada */
+  .foto-perfil-cuadro img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #99ccff;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    margin-right: 2rem;
+  }
+  
+  /* Texto a la derecha */
+  .info-header {
+    color: white;
+    text-align: left;
+  }
+  
+  /* Nombre estilizado y grande */
+  .nombre.estilizado {
+    font-size: 3rem;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    margin: 0;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    border-bottom: 2px solid #ccddff;
+    padding-bottom: 0.4rem;
+  }
+  
+  .subtitulo {
+    margin-top: 0.5rem;
+    font-size: 1.3rem;
+    color: #ccddff;
+  }
+  
+  /* Secciones comunes */
+  section {
+    background-color: white;
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 800px;
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #004080;
+    border-bottom: 2px solid #99ccff;
+    padding-bottom: 0.5rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
