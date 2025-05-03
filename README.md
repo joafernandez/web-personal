@@ -1,6 +1,6 @@
 # 🌐 Mi página web personal
 
-Este repositorio contiene el código fuente de mi **página personal**, creada con HTML y CSS, y publicada usando **GitHub Pages**.
+Este repositorio contiene el código fuente de mi **página personal**
 
 ## 🚀 ¿Qué vas a encontrar?
 
