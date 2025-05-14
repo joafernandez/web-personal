@@ -7,7 +7,7 @@ Este repositorio contiene el código fuente de mi **página personal**
 🔹 Un diseño simple pero funcional  
 🔹 Información sobre mí: estudios, herramientas que manejo y contacto  
 🔹 Listado de lenguajes y entornos que utilizo  
-🔹 Despliegue gratuito con GitHub Pages
+
 
 ## 🛠️ Tecnologías usadas
 
